@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.2",
-  "arquivo": "estudio-1.8.2.zip",
-  "sha256": "ea73f93b58e6fcdf628a1ce3e92fb7a5260d081ff411af62980b22c5c1ce956b",
-  "tamanho": 3361485,
-  "notas": "Botão 🔄 Atualizar também dentro do editor (salva e reabre o projeto). Corrigido: depois de preparar a janela própria, o Estúdio continuava abrindo pelo Edge até reiniciar o computador. Quando abrir pelo Edge, aparece o motivo e um botão para abrir na janela própria. Novo botão 🛡 Antivírus com o passo a passo para liberar no Kaspersky, Defender e outros, e aviso automático se o antivírus remover algum arquivo.",
+  "versao": "1.8.3",
+  "arquivo": "estudio-1.8.3.zip",
+  "sha256": "736e7a077933bc6fe329f9886056d605e2ee4633290d056b9b671d2f5e4363ef",
+  "tamanho": 3362249,
+  "notas": "Ao atualizar, o Estúdio fecha a janela antiga por completo e abre uma janela nova já na versão nova (reabrindo o projeto que estava aberto). Botão 🔄 Atualizar também dentro do editor. Janela própria: corrigido o caso em que continuava abrindo pelo Edge; quando abrir pelo Edge, mostra o motivo e um botão para abrir na janela própria. Novo botão 🛡 Antivírus com o passo a passo para Kaspersky, Defender e outros.",
   "publicado": "2026-10-10"
 }
