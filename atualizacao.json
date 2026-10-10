@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.3",
-  "arquivo": "estudio-1.8.3.zip",
-  "sha256": "736e7a077933bc6fe329f9886056d605e2ee4633290d056b9b671d2f5e4363ef",
-  "tamanho": 3362249,
-  "notas": "Ao atualizar, o Estúdio fecha a janela antiga por completo e abre uma janela nova já na versão nova (reabrindo o projeto que estava aberto). Botão 🔄 Atualizar também dentro do editor. Janela própria: corrigido o caso em que continuava abrindo pelo Edge; quando abrir pelo Edge, mostra o motivo e um botão para abrir na janela própria. Novo botão 🛡 Antivírus com o passo a passo para Kaspersky, Defender e outros.",
+  "versao": "1.8.4",
+  "arquivo": "estudio-1.8.4.zip",
+  "sha256": "10e2699150cd082c63237524d94b5e048eb44a413db2bc7f7b1599d25f528b08",
+  "tamanho": 3362857,
+  "notas": "Atualização com uma janela só: a mesma janela continua aberta, o Estúdio reinicia por trás e ela recarrega já na versão nova, com o projeto reaberto. Se a janela antiga era do Edge, a janela própria abre e a do Edge é fechada automaticamente.",
   "publicado": "2026-10-10"
 }

@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.8.3**
+Versão atual: **1.8.4**
 
-Ao atualizar, o Estúdio fecha a janela antiga por completo e abre uma janela nova já na versão nova (reabrindo o projeto que estava aberto). Botão 🔄 Atualizar também dentro do editor. Janela própria: corrigido o caso em que continuava abrindo pelo Edge; quando abrir pelo Edge, mostra o motivo e um botão para abrir na janela própria. Novo botão 🛡 Antivírus com o passo a passo para Kaspersky, Defender e outros.
+Atualização com uma janela só: a mesma janela continua aberta, o Estúdio reinicia por trás e ela recarrega já na versão nova, com o projeto reaberto. Se a janela antiga era do Edge, a janela própria abre e a do Edge é fechada automaticamente.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.
