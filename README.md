@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.8.4**
+Versão atual: **1.8.5**
 
-Atualização com uma janela só: a mesma janela continua aberta, o Estúdio reinicia por trás e ela recarrega já na versão nova, com o projeto reaberto. Se a janela antiga era do Edge, a janela própria abre e a do Edge é fechada automaticamente.
+Atualização mais rápida e numa janela só: o Estúdio vê a versão nova na hora (antes o GitHub podia demorar uns 5 minutos para mostrar), atualiza por trás e a mesma janela recarrega já na versão nova — não abre outra. Se o reinício automático falhar, aparece o motivo e um botão Reiniciar o Estúdio, sem precisar forçar o fechamento.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.

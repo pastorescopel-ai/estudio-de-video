@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.4",
-  "arquivo": "estudio-1.8.4.zip",
-  "sha256": "10e2699150cd082c63237524d94b5e048eb44a413db2bc7f7b1599d25f528b08",
-  "tamanho": 3362857,
-  "notas": "Atualização com uma janela só: a mesma janela continua aberta, o Estúdio reinicia por trás e ela recarrega já na versão nova, com o projeto reaberto. Se a janela antiga era do Edge, a janela própria abre e a do Edge é fechada automaticamente.",
+  "versao": "1.8.5",
+  "arquivo": "estudio-1.8.5.zip",
+  "sha256": "222428765412668ad9f03767b21dcab9179b5a1f28bfb441867ce203893580f2",
+  "tamanho": 3364367,
+  "notas": "Atualização mais rápida e numa janela só: o Estúdio vê a versão nova na hora (antes o GitHub podia demorar uns 5 minutos para mostrar), atualiza por trás e a mesma janela recarrega já na versão nova — não abre outra. Se o reinício automático falhar, aparece o motivo e um botão Reiniciar o Estúdio, sem precisar forçar o fechamento.",
   "publicado": "2026-10-10"
 }
