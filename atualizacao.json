@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.0",
-  "arquivo": "estudio-1.8.0.zip",
-  "sha256": "cb388822a9af9f87fa1e983ea284a054fb0b7aabf7b099003061279144bc5764",
-  "tamanho": 3358809,
-  "notas": "Botão 🔄 Atualizar na tela inicial (e ⬇ Atualizar no editor quando há versão nova). Corrigido o erro 'Acesso negado' na atualização. O Estúdio passa a abrir em janela própria, sem abrir o Edge, com o ícone dele na barra de tarefas para você fixar.",
+  "versao": "1.8.1",
+  "arquivo": "estudio-1.8.1.zip",
+  "sha256": "24dd5f5839d8b94c673808550fac0a6f7a33b0b767554afff9d621bad5934fc4",
+  "tamanho": 3359138,
+  "notas": "O instalador agora confere se o Python do Estúdio está inteiro e, se o antivírus tiver removido algum arquivo, reinstala sozinho.",
   "publicado": "2026-10-10"
 }

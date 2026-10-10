@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.8.0**
+Versão atual: **1.8.1**
 
-Botão 🔄 Atualizar na tela inicial (e ⬇ Atualizar no editor quando há versão nova). Corrigido o erro 'Acesso negado' na atualização. O Estúdio passa a abrir em janela própria, sem abrir o Edge, com o ícone dele na barra de tarefas para você fixar.
+O instalador agora confere se o Python do Estúdio está inteiro e, se o antivírus tiver removido algum arquivo, reinstala sozinho.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.
