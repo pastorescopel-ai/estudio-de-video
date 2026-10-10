@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.9",
-  "arquivo": "estudio-1.7.9.zip",
-  "sha256": "3a549bc0fb21db91212fb5adb537168a7cce6e4b3cbfee3e245c3217546dfbf5",
-  "tamanho": 3784544,
-  "notas": "Biblioteca de sons enxuta: saíram os efeitos sintetizados antigos; ficam os mais baixados do Freesound (por categoria), os que você baixar e os seus. Projetos que já usavam os sons antigos continuam funcionando.",
+  "versao": "1.8.0",
+  "arquivo": "estudio-1.8.0.zip",
+  "sha256": "cb388822a9af9f87fa1e983ea284a054fb0b7aabf7b099003061279144bc5764",
+  "tamanho": 3358809,
+  "notas": "Botão 🔄 Atualizar na tela inicial (e ⬇ Atualizar no editor quando há versão nova). Corrigido o erro 'Acesso negado' na atualização. O Estúdio passa a abrir em janela própria, sem abrir o Edge, com o ícone dele na barra de tarefas para você fixar.",
   "publicado": "2026-10-10"
 }

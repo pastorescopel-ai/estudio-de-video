@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.7.9**
+Versão atual: **1.8.0**
 
-Biblioteca de sons enxuta: saíram os efeitos sintetizados antigos; ficam os mais baixados do Freesound (por categoria), os que você baixar e os seus. Projetos que já usavam os sons antigos continuam funcionando.
+Botão 🔄 Atualizar na tela inicial (e ⬇ Atualizar no editor quando há versão nova). Corrigido o erro 'Acesso negado' na atualização. O Estúdio passa a abrir em janela própria, sem abrir o Edge, com o ícone dele na barra de tarefas para você fixar.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.
