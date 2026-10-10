@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.7",
-  "arquivo": "estudio-1.7.7.zip",
-  "sha256": "1f28ba8e29c863fff0c569d3f23b0b2f4a71aaeec83310c1ecea15129701cd7f",
-  "tamanho": 4581900,
-  "notas": "GIFs e stickers em alta do GIPHY (com busca) e os sons mais baixados do Freesound por categoria, prontos para colocar no vídeo.",
+  "versao": "1.7.8",
+  "arquivo": "estudio-1.7.8.zip",
+  "sha256": "03d9653e9187f126881bffad20fb511fb655221eed82e79cdf3f078391cd3deb",
+  "tamanho": 4582247,
+  "notas": "O Estúdio agora procura atualização sempre que a janela é aberta (antes só procurava a cada 6 horas) e mostra a versão na tela inicial, com um botão para procurar na hora. Inclui também os GIFs do GIPHY e os sons mais baixados do Freesound.",
   "publicado": "2026-10-10"
 }
