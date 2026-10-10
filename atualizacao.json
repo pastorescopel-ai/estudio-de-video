@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.1",
-  "arquivo": "estudio-1.8.1.zip",
-  "sha256": "24dd5f5839d8b94c673808550fac0a6f7a33b0b767554afff9d621bad5934fc4",
-  "tamanho": 3359138,
-  "notas": "O instalador agora confere se o Python do Estúdio está inteiro e, se o antivírus tiver removido algum arquivo, reinstala sozinho.",
+  "versao": "1.8.2",
+  "arquivo": "estudio-1.8.2.zip",
+  "sha256": "ea73f93b58e6fcdf628a1ce3e92fb7a5260d081ff411af62980b22c5c1ce956b",
+  "tamanho": 3361485,
+  "notas": "Botão 🔄 Atualizar também dentro do editor (salva e reabre o projeto). Corrigido: depois de preparar a janela própria, o Estúdio continuava abrindo pelo Edge até reiniciar o computador. Quando abrir pelo Edge, aparece o motivo e um botão para abrir na janela própria. Novo botão 🛡 Antivírus com o passo a passo para liberar no Kaspersky, Defender e outros, e aviso automático se o antivírus remover algum arquivo.",
   "publicado": "2026-10-10"
 }
