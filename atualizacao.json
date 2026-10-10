@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.8",
-  "arquivo": "estudio-1.7.8.zip",
-  "sha256": "03d9653e9187f126881bffad20fb511fb655221eed82e79cdf3f078391cd3deb",
-  "tamanho": 4582247,
-  "notas": "O Estúdio agora procura atualização sempre que a janela é aberta (antes só procurava a cada 6 horas) e mostra a versão na tela inicial, com um botão para procurar na hora. Inclui também os GIFs do GIPHY e os sons mais baixados do Freesound.",
+  "versao": "1.7.9",
+  "arquivo": "estudio-1.7.9.zip",
+  "sha256": "3a549bc0fb21db91212fb5adb537168a7cce6e4b3cbfee3e245c3217546dfbf5",
+  "tamanho": 3784544,
+  "notas": "Biblioteca de sons enxuta: saíram os efeitos sintetizados antigos; ficam os mais baixados do Freesound (por categoria), os que você baixar e os seus. Projetos que já usavam os sons antigos continuam funcionando.",
   "publicado": "2026-10-10"
 }
