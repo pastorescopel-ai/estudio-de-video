@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.8.5**
+Versão atual: **1.8.6**
 
-Atualização mais rápida e numa janela só: o Estúdio vê a versão nova na hora (antes o GitHub podia demorar uns 5 minutos para mostrar), atualiza por trás e a mesma janela recarrega já na versão nova — não abre outra. Se o reinício automático falhar, aparece o motivo e um botão Reiniciar o Estúdio, sem precisar forçar o fechamento.
+Botões para apagar o que não vai ser usado: ⋯ em cada vídeo da tela inicial (Abrir, Renomear, Mostrar na pasta, Deixar para depois, Apagar), seleção de vários para apagar de uma vez, 🗑 Descartar no editor, 🗑 nas imagens de apoio e 'Apagar as que não estão em uso', e 🧹 Liberar espaço. O original vai para a Lixeira do Windows.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.

@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.5",
-  "arquivo": "estudio-1.8.5.zip",
-  "sha256": "222428765412668ad9f03767b21dcab9179b5a1f28bfb441867ce203893580f2",
-  "tamanho": 3364367,
-  "notas": "Atualização mais rápida e numa janela só: o Estúdio vê a versão nova na hora (antes o GitHub podia demorar uns 5 minutos para mostrar), atualiza por trás e a mesma janela recarrega já na versão nova — não abre outra. Se o reinício automático falhar, aparece o motivo e um botão Reiniciar o Estúdio, sem precisar forçar o fechamento.",
+  "versao": "1.8.6",
+  "arquivo": "estudio-1.8.6.zip",
+  "sha256": "f6ee859eb70e9834b559e03a8339084486469b3cef37d52709539e26692f4a38",
+  "tamanho": 3369538,
+  "notas": "Botões para apagar o que não vai ser usado: ⋯ em cada vídeo da tela inicial (Abrir, Renomear, Mostrar na pasta, Deixar para depois, Apagar), seleção de vários para apagar de uma vez, 🗑 Descartar no editor, 🗑 nas imagens de apoio e 'Apagar as que não estão em uso', e 🧹 Liberar espaço. O original vai para a Lixeira do Windows.",
   "publicado": "2026-10-10"
 }
