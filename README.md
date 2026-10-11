@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.9.2**
+Versão atual: **1.9.3**
 
-Posição, tamanho e corte por pedaço: mexer no vídeo vale só para o trecho entre cortes (ou para o vídeo todo, se escolher); moldura com alças nos cantos no monitor para aumentar/diminuir; passagem seca ou suave em cada corte.
+Transições entre cortes e animações de entrada/saída por pedaço; recortar e girar o vídeo com o mouse na prévia; números digitáveis em todas as barrinhas
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.

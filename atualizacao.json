@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.2",
-  "arquivo": "estudio-1.9.2.zip",
-  "sha256": "52f3afec70cecbcfc347eef959dfb0d50a4d8fc4642c6b1d07f64165893262d8",
-  "tamanho": 3393460,
-  "notas": "Posição, tamanho e corte por pedaço: mexer no vídeo vale só para o trecho entre cortes (ou para o vídeo todo, se escolher); moldura com alças nos cantos no monitor para aumentar/diminuir; passagem seca ou suave em cada corte.",
+  "versao": "1.9.3",
+  "arquivo": "estudio-1.9.3.zip",
+  "sha256": "1bd31892a4f0051a75eebb8c4af3ae98a840de038a67c07a20b8e100bccd7edf",
+  "tamanho": 3400255,
+  "notas": "Transições entre cortes e animações de entrada/saída por pedaço; recortar e girar o vídeo com o mouse na prévia; números digitáveis em todas as barrinhas",
   "publicado": "2026-10-11"
 }
