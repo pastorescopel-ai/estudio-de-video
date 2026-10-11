@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.8.6**
+Versão atual: **1.9.0**
 
-Botões para apagar o que não vai ser usado: ⋯ em cada vídeo da tela inicial (Abrir, Renomear, Mostrar na pasta, Deixar para depois, Apagar), seleção de vários para apagar de uma vez, 🗑 Descartar no editor, 🗑 nas imagens de apoio e 'Apagar as que não estão em uso', e 🧹 Liberar espaço. O original vai para a Lixeira do Windows.
+Nova ferramenta 🎬 Cena: posicione o vídeo principal (mover, aumentar, girar, cortar bordas), igual no vídeo todo ou mudando ao longo do vídeo com pontos (keyframes); tire o fundo com IA (sem tela verde) ou por tela verde; e coloque no fundo uma imagem, um vídeo, uma cor, um degradê ou o próprio fundo desfocado — tudo arrastável e com prévia.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.
