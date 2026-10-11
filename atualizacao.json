@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.1",
-  "arquivo": "estudio-1.9.1.zip",
-  "sha256": "ef93b643db6354e06753ebd87b5837bda73bd136a2d9a1bef1bf1448b2c36098",
-  "tamanho": 3390001,
-  "notas": "Tirar o fundo mantendo fantoches e objetos: novo modo 🧸 Cenário vazio (grave 3 s do cenário sem ninguém; tudo o que for diferente fica, mesmo com a câmera mexendo um pouco) e 🎯 Marcar o que deve ficar (retângulo em volta do fantoche; o Estúdio segue e recorta ele no vídeo todo), que também pode ser somado à IA de pessoas.",
+  "versao": "1.9.2",
+  "arquivo": "estudio-1.9.2.zip",
+  "sha256": "52f3afec70cecbcfc347eef959dfb0d50a4d8fc4642c6b1d07f64165893262d8",
+  "tamanho": 3393460,
+  "notas": "Posição, tamanho e corte por pedaço: mexer no vídeo vale só para o trecho entre cortes (ou para o vídeo todo, se escolher); moldura com alças nos cantos no monitor para aumentar/diminuir; passagem seca ou suave em cada corte.",
   "publicado": "2026-10-11"
 }
