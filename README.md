@@ -1,8 +1,8 @@
 # Estúdio de Vídeo
 
-Versão atual: **1.9.0**
+Versão atual: **1.9.1**
 
-Nova ferramenta 🎬 Cena: posicione o vídeo principal (mover, aumentar, girar, cortar bordas), igual no vídeo todo ou mudando ao longo do vídeo com pontos (keyframes); tire o fundo com IA (sem tela verde) ou por tela verde; e coloque no fundo uma imagem, um vídeo, uma cor, um degradê ou o próprio fundo desfocado — tudo arrastável e com prévia.
+Tirar o fundo mantendo fantoches e objetos: novo modo 🧸 Cenário vazio (grave 3 s do cenário sem ninguém; tudo o que for diferente fica, mesmo com a câmera mexendo um pouco) e 🎯 Marcar o que deve ficar (retângulo em volta do fantoche; o Estúdio segue e recorta ele no vídeo todo), que também pode ser somado à IA de pessoas.
 
 - Instalar num PC novo: baixe `EstudioDeVideo-Instalador.exe` e abra.
 - Quem já tem instalado recebe o aviso de atualização dentro do Estúdio.

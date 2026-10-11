@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.0",
-  "arquivo": "estudio-1.9.0.zip",
-  "sha256": "27573f5e37a49812eecb5514d616a6f6413f821fb0fcfa7865713f2ee091342a",
-  "tamanho": 3383979,
-  "notas": "Nova ferramenta 🎬 Cena: posicione o vídeo principal (mover, aumentar, girar, cortar bordas), igual no vídeo todo ou mudando ao longo do vídeo com pontos (keyframes); tire o fundo com IA (sem tela verde) ou por tela verde; e coloque no fundo uma imagem, um vídeo, uma cor, um degradê ou o próprio fundo desfocado — tudo arrastável e com prévia.",
+  "versao": "1.9.1",
+  "arquivo": "estudio-1.9.1.zip",
+  "sha256": "ef93b643db6354e06753ebd87b5837bda73bd136a2d9a1bef1bf1448b2c36098",
+  "tamanho": 3390001,
+  "notas": "Tirar o fundo mantendo fantoches e objetos: novo modo 🧸 Cenário vazio (grave 3 s do cenário sem ninguém; tudo o que for diferente fica, mesmo com a câmera mexendo um pouco) e 🎯 Marcar o que deve ficar (retângulo em volta do fantoche; o Estúdio segue e recorta ele no vídeo todo), que também pode ser somado à IA de pessoas.",
   "publicado": "2026-10-11"
 }
